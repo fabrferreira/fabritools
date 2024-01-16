@@ -16,3 +16,5 @@ Imports:
     purrr,
     readr,
     readxl
+URL: https://github.com/fabrferreira/fabritools
+BugReports: https://github.com/fabrferreira/fabritools/issues
