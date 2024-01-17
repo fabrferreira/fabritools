@@ -8,7 +8,7 @@
 #'
 #' @export
 
-theme_fabr <- function(...) {
+personal_theme <- function(...) {
 
   `%+replace%` <- ggplot2::`%+replace%`
 
